@@ -357,7 +357,8 @@ footer {
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
-    color: #fafafa;
+    color: #fafafa; 
+
     background-color: #e84610;
 }
 
@@ -371,3 +372,5 @@ button[type="submit"] {
         max-width: 50%;
     }
 }
+
+div#map {min-height: 360px;}
